@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Drwildy\source\repos\Stack Practice\Stack Practice\Source.cpp(171,27): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Drwildy\source\repos\Stack Practice\Stack Practice\Source.cpp(171,31): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\Drwildy\source\repos\Stack Practice\Stack Practice\Source.cpp(171,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Drwildy\source\repos\Stack Practice\Stack Practice\Source.cpp(177,37): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Drwildy\source\repos\Stack Practice\Stack Practice\Source.cpp(177,42): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\Drwildy\source\repos\Stack Practice\Stack Practice\Source.cpp(177,37): warning C4309: 'initializing': truncation of constant value
+  Stack Practice.vcxproj -> C:\Users\Drwildy\source\repos\Stack Practice\Debug\Stack Practice.exe
